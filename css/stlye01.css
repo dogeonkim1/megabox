@@ -67,6 +67,27 @@
 .slider .swiper-slide h2 em {display: block; font-size: 59px; font-weight: 100;}
 .slider .swiper-slide p {font-size: 27px; color: #fff; padding-top: 55px;}
 
+/* 무비 */
+.movie {padding: 100px 0;}
+.movie_title {margin-bottom: 60px;}
+.movie_title ul {overflow: hidden; width: 848px; margin: 0 auto;}
+.movie_title ul li {float: left; width: 210px; text-align: center; border: 1px solid #c4c4c4; margin-right: -1px;} 
+.movie_title ul li a {display: block; padding: 15px 0; font-size: 18px; color: #666; font-weight: 700;}
+.movie_title ul li.active a {background: #666; color: #fff;}
+.movie_chart {height: 592px;}
+.movie_chart > div {overflow: hidden;}
+.movie_chart > div > div {float: left; width: 292px; height: 592px; margin-right: 18px;}
+.movie_chart > div > div:last-child {margin-right: 0;}
+.movie_chart > div > div.poster {position: relative;}
+.movie_chart > div > div.poster img {display: block;}
+.movie_chart > div > div.poster.rank {position: absolute; top: 17px; left: 0; width: 50px; height: 50px; line-height: 50; background-color: #38116a; text-align: center;}
+.movie_chart > div > div.poster.rank strong {color: #fff;}
+.movie_chart > div > div .poster .mx {position: absolute; top: 17px; right: 17px;}
+.movie_chart > div > div .poster .mx span {width: 103px; height: 25px; display: block;}
+.movie_chart > div > div .poster .mx .m {background-position: 0 -75px;}
+.movie_chart > div > div .poster .mx .b {background-position: 0 -100px;}
+/*내일 무비 더 봐야 함*/
+
 
 
 /* 미디어쿼리 */
