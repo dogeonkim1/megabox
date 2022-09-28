@@ -91,6 +91,8 @@
 .movie_chart > div > div .infor h3 strong{}
 .movie_chart > div > div .infor h3 span {width: 29px; height: 29px; display: inline-block; margin-top: 9px; vertical-align: -2px;}
 .movie_chart > div > div .infor h3 span.all {background-position: -87px -125px;}
+.movie_chart > div > div .infor h3 span.a12 {background-position: -58px -125px;}
+.movie_chart > div > div .infor h3 span.a15 {background-position: 0px -125px;}
 
 
 
