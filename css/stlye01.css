@@ -86,7 +86,8 @@
 .movie_chart > div > div .poster .mx span {width: 103px; height: 25px; display: block;}
 .movie_chart > div > div .poster .mx .m {background-position: 0 -75px;}
 .movie_chart > div > div .poster .mx .b {background-position: 0 -100px;}
-/*내일 무비 더 봐야 함*/
+.movie_chart > div > div .infor {background: #fff; padding: 17px; border: 1px solid #d9d9d9;}
+
 
 
 
