@@ -107,7 +107,17 @@
 .event_right {float: left; width: 32%;}
 
 /*opening*/
-
+.opening {}
+.opening h2 {}
+.opening h2 .grand{}
+.opening .date{}
+.opening .desc{}
+.opening .open_box{}
+.opening .open_box > div{}
+.opening .open_box > div h3{}
+.opening .open_box > div p {}
+.opening .open_box > div em {}
+.opening .open_box > div strong{}
 
 /* 미디어쿼리 */
 @media (max-width: 1290px){
