@@ -106,6 +106,9 @@
 .event_left .event_box2 {float: left; width: 50%;}
 .event_right {float: left; width: 32%;}
 
+/*opening*/
+
+
 /* 미디어쿼리 */
 @media (max-width: 1290px){
     .container {width: 100%;}
