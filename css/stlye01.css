@@ -67,6 +67,8 @@
 .slider .swiper-slide h2 em {display: block; font-size: 59px; font-weight: 100;}
 .slider .swiper-slide p {font-size: 27px; color: #fff; padding-top: 55px;}
 
+
+
 /* 무비 */
 .movie {padding: 100px 0;}
 .movie_title {margin-bottom: 60px;}
@@ -95,6 +97,27 @@
 .movie_chart > div > div .infor h3 span.a19 {background-position: -29px -125px;}
 .movie_chart > div > div .infor .infor_btn a {display: inline-block; background: blanchedalmond; font-size: 18px; padding: 15px 30px;}
 
+/*event*/
+.event {overflow: hidden; padding: 100px 0;}
+.event img {display: block;}
+.event h2 {font-size: 30px; font-weight: 500; margin-bottom: 20px;}
+.event_left {float: left; width: 66%; margin-right: 2%;}
+.event_left .event_box1 {float: left; width: 50%;}
+.event_left .event_box2 {float: left; width: 50%;}
+.event_right {float: left; width: 32%;}
+
+/*opening*/
+.opening {padding: 100px 0; text-align: center; color: #bb9b51;}
+.opening h2 {margin-bottom: 15px;}
+.opening h2 .grand{background-position: 0 -175px; display: inline-block; width: 330px; height: 50px;}
+.opening .date{background-position: 0 -225px; display: inline-block; width: 260px; height: 45px;}
+.opening .desc{font-size: 35px; font-weight: 300; padding-bottom: 20px; background: url(../img/bar.png) no-repeat bottom center; background-size: 100%;}
+.opening .open_box{overflow: hidden; padding: 20px 3% 0 3%;}
+.opening .open_box > div{float: left; width: 27.333%; margin: 4% -3% 0 3%; box-sizing: border-box;background: rgba(0, 0, 0, 0.5); border: 1px solid #3e4b44;}
+.opening .open_box > div h3{color: #fff; font-weight: 300; border: 1px solid #6e3abb; margin-top: -24px; font-size: 19px; display: inline-block; padding: 10px 20px; background: #551e9b;}
+.opening .open_box > div p {font-size: 23px; color: #fff; font-weight: 700; padding: 6% 0 10% 0;}
+.opening .open_box > div em {display: block; font-weight: bold;}
+.opening .open_box > div strong{display: block; font-weight: bold;}
 
 /* 미디어쿼리 */
 @media (max-width: 1290px){
