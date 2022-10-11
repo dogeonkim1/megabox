@@ -119,7 +119,7 @@
 .opening .open_box > div em {display: block; font-weight: bold;}
 .opening .open_box > div strong{display: block; font-weight: bold;}
 
-/* 미디어쿼리 */
+/* 미디어쿼리입니다 */
 @media (max-width: 1290px){
     .container {width: 100%;}
     .header .nav ul li {width: 93px;}
