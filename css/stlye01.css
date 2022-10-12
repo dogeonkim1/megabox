@@ -158,10 +158,23 @@
 }
 
 @media (max-width: 768px){
+    body{background: #d9d7e0;}
+
     .row {padding: 0 16px;}
     #mNav {right: 6px;}
     .header h1 {text-align: left;}
     .header h1 strong {display: none;}
+
+    #movie {background: none;}
+    #movie .row {background: #fff; margin: 24px 24px 0 24px; padding: 24px;}
+    #movie .ir_so {position: static; width: auto; height: auto; line-height: normal; text-indent: 0;
+    font-size: 24px; font-weight: bold; padding-bottom: 20px;}
+    .movie {padding: 0;}
+    .movie_title {margin-bottom: 30px;}
+    .movie_title ul {position: relative; padding-bottom: 10px;}
+    .movie_title ul:before {content: ''; position: absolute; z-index: 1; left: 0; bottom: 0; width: 100%;
+    height: 2px; background: #e1e1e1;}
+    .movie_title li {width: auto; border: 0;}
 }
 
 @media (max-width: 600px){
