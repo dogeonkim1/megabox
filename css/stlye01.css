@@ -175,6 +175,16 @@
     .movie_title ul:before {content: ''; position: absolute; z-index: 1; left: 0; bottom: 0; width: 100%;
     height: 2px; background: #e1e1e1;}
     .movie_title li {width: auto; border: 0;}
+    .movie_title li a {position: relative; font-size: 18px; color: #666; font-weight: 400; padding: 0;
+    margin-right: 35px;}
+    .movie_title li.active a:before {content: ''; position: absolute; z-index: 2; left: 0; bottom: -10px; width: 100%; height: 2px; background: #666;}
+    .movie_title li.active a {background: none; color: #666;}
+
+    #event .row {padding: 24px;}
+    .event {padding: 24px;background: #fff;}
+    .event h2 {font-size: 24px; font-weight: 700;}
+    .event .event_left {width: 100%; margin-right: 0;}
+    .event .event_right {display: none;}
 }
 
 @media (max-width: 600px){
