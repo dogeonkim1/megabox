@@ -120,6 +120,15 @@
 .opening .open_box > div em {display: block; font-weight: bold;}
 .opening .open_box > div strong {display: block; font-weight: bold;}
 
+/*새로운영화*/
+.new {padding: 100px 0; position: relative;}
+.new h2 {font-size: 30px; font-weight: 500; margin-bottom: 20px;}
+.new .new_left {position: relative; margin-right: 423px; height: 500px; background: #ccc url(../img/new01.jpg) center center; background-size: cover;}
+.new .new_left .play {position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 120px; height: 120px;}
+.new .new_left .play .st0 {}
+.new .new_left .play .st1 {}
+.new .new_right {}
+
 
 /* 미디어쿼리 */
 @media (max-width: 1290px){
