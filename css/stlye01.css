@@ -138,6 +138,11 @@
 .new .new_right .star .star2 {background-position: -412px 0;}
 .new .new_right .star .star0 {background-position: -374px 0;}
 
+.new .new_right .summary {font-size: 14px;}
+.new .new_right .genre {padding-bottom: 3px;}
+.new .new_right .age {padding-bottom: 10px;}
+.new .new_right .desc {margin-bottom: 20px; height: 108px; overflow: hidden;}
+
 
 
 
