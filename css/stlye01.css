@@ -129,6 +129,16 @@
 .new .new_left .play .st1 {fill: #fff;}
 .new .new_right {position: absolute; right: 0; top: 165px; width: 400px; height: 500px; background: #f0f0f0;}
 
+.new .new_right .title {font-size: 28px; color: #000;}
+.new .new_right .release {font-size: 12px; color: #333;}
+.new .new_right .star {padding: 13px 0;}
+.new .new_right .star strong {font-size: 15px; padding-left: 5px;}
+.new .new_right .star span {display: inline-block; width: 20px; height: 20px; vertical-align: -3px;}
+.new .new_right .star .star1 {background-position: -393px 0;}
+.new .new_right .star .star2 {background-position: -412px 0;}
+.new .new_right .star .star0 {background-position: -374px 0;}
+
+
 
 
 /* 미디어쿼리 */
