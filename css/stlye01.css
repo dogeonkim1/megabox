@@ -259,6 +259,16 @@
     .opening h2 .grand {background-size: 300px; background-position: 0 -105px; width: 197px; height: 24px;}
     .opening .date {display: none}
     .opening .desc {font-size: 16px; font-weight: 400; padding-bottom: 0;}
+
+    #new .row {padding: 0 8px;}
+    .new {padding: 16px; margin-top: 8px;}
+    .new h2 {font-size: 18px; margin-bottom: 0;}
+    .new .new_left {height: 300px;}
+    .new .new_right {padding: 17px;}
+    .new .new_right .title {font-size: 22px;}
+    .new .new_right .star {padding: 9px 0;}
+    .new .new_right .select .s1 {width: 100%; margin-right: 0; margin-bottom: 2%;}
+    .new .new_right .select .s2 {width: 100%;}
 }
 
 @media (max-width: 480px){
