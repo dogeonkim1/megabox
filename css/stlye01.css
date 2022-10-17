@@ -159,6 +159,20 @@
 .help article .help_box3 {margin-right: 0;}
 .help article h3 {font-size: 30px; font-weight: 500; margin-bottom: 20px;}
 
+/* 공지사항 */
+.notice {position: relative; padding: 17px;}
+.notice ul {}
+.notice ul li {}
+.notice ul li a {}
+.notice ul li .active a{}
+.notice ul li ul {}
+.notice ul li ul li {}
+.notice ul li ul li:last-child{}
+.notice ul li ul li dt em{}
+.notice ul li ul li dt .bar{}
+.notice ul li ul li dt .bar::after{}
+.notice ul li ul li dd{}
+
 
 
 /* 미디어쿼리 */
