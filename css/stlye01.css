@@ -278,6 +278,15 @@
     .new {padding: 24px; background-color: #fff; margin-top: 24px;}
     .new h2 {font-size: 24px; font-weight: 700; height: 27px; margin-bottom: 20px; padding-bottom: 10px;}
     .new .new_right {padding: 24px;}
+
+    #help .row {padding: 0 24px;}
+    .help article .help_box1 {padding: 24px; box-sizing: border-box; width: 100%; background: #fff; margin-right: 0; margin-top: 24px;}
+    .help article .help_box2 {padding: 24px; box-sizing: border-box; width: 100%; background: #fff; margin-right: 0; margin-top: 24px;}
+    .help article .help_box3 {padding: 24px; box-sizing: border-box; width: 100%; background: #fff; margin-right: 0; margin-top: 24px;}
+    .help article .help_box1 h3 {font-size: 24px; font-weight: 700; height: 27px; margin-bottom: 20px; padding-bottom: 10px;}
+    .help article .help_box2 h3 {font-size: 24px; font-weight: 700; height: 27px; margin-bottom: 20px; padding-bottom: 10px;}
+    .help article .help_box3 h3 {display: none;}
+    .help article .help_box3 h3 > div {height: auto;}
 }
 
 @media (max-width: 600px){
