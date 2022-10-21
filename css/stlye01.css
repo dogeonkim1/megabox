@@ -193,6 +193,23 @@
 .service li:nth-child(2) {border-bottom: 0;}
 .service li:nth-child(3) {border-right: 0;}
 
+/* 푸터영역 */
+.footer_sns {}
+.footer_sns li{}
+.footer_sns li .s1{}
+.footer_sns li .s2{}
+.footer_sns li .s3{}
+.footer_sns li .s4{}
+.footer_sns li .s5{}
+.footer_sns li .s1:hover{}
+.footer_sns li .s2:hover{}
+.footer_sns li .s3:hover{}
+.footer_sns li .s4:hover{}
+.footer_sns li .s5:hover{}
+.footer_sns .tel{}
+.footer_sns .tel a{}
+.footer_sns .tel a em{}
+
 
 
 
